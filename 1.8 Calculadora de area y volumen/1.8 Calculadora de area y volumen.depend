@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684723149 source:c:\users\usuario\onedrive - instituto tecnológico de las américas (itla)\escritorio\ppm\1.8 calculadora de area y volumen\main.c
+	<stdio.h>
+	<math.h>
+
