@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\TaskRocio.exe
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\TaskRocio.deps.json
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\TaskRocio.runtimeconfig.json
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\TaskRocio.dll
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\TaskRocio.pdb
+C:\Users\Usuario\source\repos\TaskRocio\bin\Debug\net6.0\LiteDB.dll
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.dll
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\refint\TaskRocio.dll
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.pdb
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\TaskRocio.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TaskRocio\obj\Debug\net6.0\ref\TaskRocio.dll
